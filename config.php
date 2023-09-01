@@ -2,7 +2,7 @@
      $host = "localhost";
      $user = "root";
      $password = "";
-     $database = "tobinco";
+     $database = "transcorp";
   
      $conn = mysqli_connect($host, $user, $password,$database);
      if (!$conn) {
